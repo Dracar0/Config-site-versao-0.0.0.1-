@@ -1,0 +1,85 @@
+
+body{
+    background-color: aqua;
+}
+
+
+
+
+.letter {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.letter02 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.abs {
+    position: absolute;
+}
+
+/*#borda{
+    border: 3px solid black;
+
+}
+*/
+
+#le{
+
+    position: relative;
+
+    top: -300px;
+    left: 500px;
+    
+
+    font-family: fantasy;
+    font-size: medium;
+
+
+
+}
+
+
+
+.quadro01 {
+
+    position: relative;
+
+    top: 260px;
+    left: 90px;
+
+    width: 300px;
+    height: 350px;
+    border: 3px solid blue;
+    background-color: rgb(40, 40, 128);
+}
+
+.quadro02 {
+
+    position: relative;
+
+    top: -100px;
+    left: 485px;
+
+    width: 309px;
+    height: 359px;
+    border: 3px solid rgb(73, 73, 245);
+    background-color: rgb(54, 54, 145);
+}
+
+.quadro03 {
+
+    position: relative;
+
+    top: -465px;
+    left: 870px;
+
+    width: 309px;
+    height: 359px;
+    border: 3px solid rgb(158, 158, 240);
+    background-color: rgb(48, 48, 66);
+}
+
+
+
+
